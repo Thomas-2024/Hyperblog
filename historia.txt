@@ -2,4 +2,6 @@ Hola soy Thomas David Olaya Robayo
 
 Soy un aprendiz del sena orientado en programacion
 
-Sin embargo me gusta la fisica y la quimica
+Sin embargo me gusta la fisica y la matematica
+
+Hoy vamos a continuar estudiando git.

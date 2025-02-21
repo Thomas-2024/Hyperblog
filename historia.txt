@@ -1,7 +1,7 @@
 Hola soy Thomas David Olaya Robayo
 
-Soy un aprendiz del sena orientado en programacion
+Soy un aprendiz del sena orientado en programacion de software
 
-Sin embargo me gusta la fisica y la matematica
+Tengo 17 años y vivo en Bogota
 
 Hoy vamos a continuar estudiando git.
